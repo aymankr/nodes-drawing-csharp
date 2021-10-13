@@ -1,5 +1,7 @@
 # Project C# Nodes
 
+## Project duration : 12 hours (4 hours per week)
+
 In this utility, you can:
 
 - Use the left click to create a new node
